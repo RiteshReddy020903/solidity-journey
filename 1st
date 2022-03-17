@@ -2,7 +2,7 @@ pragma >=0.7.0 < 0.9.0;
 contract WelcomeToSolidity
   constructor() public{
   }
-  funtion getResult ()public view return(unit){
+  function getResult ()public view return(unit){
       unit a= 1;
       unit b= 2;
       unit result = a+b;
